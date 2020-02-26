@@ -24,6 +24,7 @@
 - GA
   - [CROSSOVER OPERATORS IN GENETIC ALGORITHMS: A REVIEW](http://ictactjournals.in/paper/IJSC_V6_I1_paper_4_pp_1083_1092.pdf)
 - Cuckoo Search
+  - [Cuckoo search via Lévy flights](https://github.com/KGJsGit/my_PaperList/issues/2)
 ### Data Science
 - Data Mining
   - [Deep content-based music recommendation](https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation)
