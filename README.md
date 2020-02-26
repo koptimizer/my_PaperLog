@@ -20,6 +20,7 @@
 - NLP
 ### Scheduling & Heuristic
 - Scheduling
+  - [Artificial Neural Network Based Multi-Objective Rule Selection Dispatcher for Re-Entrant Multiple-Chip Product Assembly Line](https://github.com/KGJsGit/my_PaperList/issues/1)
 - GA
   - [CROSSOVER OPERATORS IN GENETIC ALGORITHMS: A REVIEW](http://ictactjournals.in/paper/IJSC_V6_I1_paper_4_pp_1083_1092.pdf)
 - Cuckoo Search
