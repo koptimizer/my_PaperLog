@@ -8,9 +8,9 @@
 - 읽지 않은 논문을 포함, 논문에 대한 리뷰는 [Issues Tab](https://github.com/KGJsGit/my_PaperList/issues)에서 확인이 가능합니다. :point_left:
 - Since 2020.02 :runner:
 
-## :memo: REVIEW FORM [(바로가기)](https://github.com/KGJsGit/my_PaperList/blob/master/review_form.md)
-- 제목, 요약(원본), 키워드, 소개, 논문 URL
-- 방법, 결과, 차후 연구방향 및 보완점, 배운 점, 궁금한 점, 중요 레퍼런스 URL
+## :memo: REVIEW FORM 
+- 제목, 요약(원본), 키워드, 소개, 논문 URL -> [(바로가기)](https://github.com/KGJsGit/my_PaperList/blob/master/.github/ISSUE_TEMPLATE/paper_temp.md)
+- 방법, 결과, 차후 연구방향 및 보완점, 배운 점, 궁금한 점, 중요 레퍼런스 URL -> [(바로가기)](https://github.com/KGJsGit/my_PaperList/blob/master/review_form.md)
   - systematic review의 경우 달라질 수 있음.
 
 ## :dart: TOPIC
