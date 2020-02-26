@@ -17,7 +17,8 @@
 ### ML & DL
 - Model & Theory
 - NLP
-### Heuristic
+### Scheduling & Heuristic
+- Scheduling
 - GA
   - [CROSSOVER OPERATORS IN GENETIC ALGORITHMS: A REVIEW](http://ictactjournals.in/paper/IJSC_V6_I1_paper_4_pp_1083_1092.pdf)
 - Cuckoo Search
