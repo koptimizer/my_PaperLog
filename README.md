@@ -8,7 +8,7 @@
 - 읽지 않은 논문을 포함, 논문에 대한 리뷰는 [여기](https://github.com/KGJsgit/my-PaperList/issues)에서 확인이 가능합니다. :point_left:
 - Since 2020.02 :runner:
 
-## :memo: REVIEW FORM
+## :memo: REVIEW FORM [(바로가기)](https://github.com/KGJsGit/my_PaperList/blob/master/review_form.md)
 - 제목, 요약(원본), 논문 URL
 - 국문 요약, 제안의 독자성과 강점, 제안의 방법
   - systematic review의 경우 달라질 수 있음.
