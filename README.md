@@ -9,10 +9,9 @@
 - Since 2020.02 :runner:
 
 ## :memo: REVIEW FORM [(바로가기)](https://github.com/KGJsGit/my_PaperList/blob/master/review_form.md)
-- 제목, 요약(원본), 논문 URL
-- 국문 요약, 결과, 방법, 차후 연구방향 혹은 보완점
+- 제목, 요약(원본), 키워드, 소개, 논문 URL
+- 방법, 결과, 차후 연구방향 및 보완점, 배운 점, 궁금한 점, 중요 레퍼런스 URL
   - systematic review의 경우 달라질 수 있음.
-- 배운 점, 궁금한 점, 중요 레퍼런스 URL
 
 ## :dart: TOPIC
 ### ML & DL
@@ -22,7 +21,6 @@
 - NLP
 ### meta-Heuristic
 - GA
-  - [CROSSOVER OPERATORS IN GENETIC ALGORITHMS: A REVIEW](http://ictactjournals.in/paper/IJSC_V6_I1_paper_4_pp_1083_1092.pdf)
 - Cuckoo Search
   - [Cuckoo search via Lévy flights](https://github.com/KGJsGit/my_PaperList/issues/2)
 ### Data Science
