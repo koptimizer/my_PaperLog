@@ -1,7 +1,7 @@
 ## :bulb: 방법은 무엇입니까?
 어떤 방법을 사용했는지 간략히 설명해주세요.
 
-## :chart_with_upwards_trend: 실험과 결과는 어떻습니까?
+## :chart_with_upwards_trend: 실험과 그 결과는 어떻습니까?
 제안이나 실험이 가지는 결과적 강점에 대해 적어주세요. 
 
 ## :open_file_folder: 차후 연구방향이나 보완점은 무엇입니까?
