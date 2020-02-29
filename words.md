@@ -6,3 +6,14 @@
 - be emerging : 출현하고 있다
 - intensification : 강화
 - diversification : 다양화
+- communal : 공동의
+- On the other hand : 다른 한편으로는
+- demonstrated : 증명된
+- assumption : 가정
+- proportional : 비례의
+- convergence : 수렴
+- subsequently : 그 뒤어, 나중에
+- generic : 포괄적인
+- robust : 건장한
+- constraint : 제약
+- 
