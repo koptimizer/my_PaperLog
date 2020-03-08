@@ -16,4 +16,7 @@
 - generic : 포괄적인
 - robust : 건장한
 - constraint : 제약
-- 
+- carry out : 수행하다
+- summarize : 요약하다
+- instantaneous : 즉석의
+- observation : 관찰
