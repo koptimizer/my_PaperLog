@@ -1,4 +1,4 @@
-# :page_facing_up: my_PaperList
+# :page_facing_up: my_PaperLog
 [![opened-issue-badge](https://img.shields.io/github/issues/KGJsGit/my_PaperList)](https://github.com/KGJsGit/my_PaperList/issues)
 [![closed-issue-badge](https://img.shields.io/github/issues-closed/KGJsGit/my_PaperList)](https://github.com/KGJsGit/my_PaperList/issues?q=is%3Aissue+is%3Aclosed)
 ![GitHub last commit](https://img.shields.io/github/last-commit/KGJsGit/my_PaperList.svg)
