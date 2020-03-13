@@ -12,11 +12,15 @@
 - assumption : 가정
 - proportional : 비례의
 - convergence : 수렴
-- subsequently : 그 뒤어, 나중에
+- subsequently : 그 뒤에, 나중에
 - generic : 포괄적인
-- robust : 건장한
+- robust : 건장한, 적합한 
 - constraint : 제약
 - carry out : 수행하다
 - summarize : 요약하다
 - instantaneous : 즉석의
 - observation : 관찰
+- via : 통하여, 경우하여
+- simultaneously : 동시에
+- corresponds : 상응하는
+- qualitative and quantitative evaluation : 정성적 및 정량적 평가
