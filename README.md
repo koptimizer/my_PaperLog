@@ -20,8 +20,9 @@
   - [Artificial Neural Network Based Multi-Objective Rule Selection Dispatcher for Re-Entrant Multiple-Chip Product Assembly Line](https://github.com/KGJsGit/my_PaperList/issues/1)
 - Data mining
   - [Deep content-based music recommendation](https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation)
-- GAN
+- Theory
   - [Generative Adversarial Networks](https://github.com/KGJsGit/my_PaperLog/issues/3)
+  - Suport vector networks
 ### Meta-heuristic
 - Cuckoo Search
   - [Cuckoo search via Lévy flights](https://github.com/KGJsGit/my_PaperList/issues/2)
