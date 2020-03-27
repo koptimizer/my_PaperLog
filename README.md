@@ -26,3 +26,4 @@
 ### Meta-heuristic
 - Cuckoo Search
   - [Cuckoo search via Lévy flights](https://github.com/KGJsGit/my_PaperList/issues/2)
+  - Discrete Cuckoo Search Algorithm for the Traveling Salesman Problem
