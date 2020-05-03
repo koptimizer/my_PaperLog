@@ -14,7 +14,7 @@
   - systematic review의 경우 달라질 수 있음.
 - 단어/표현 정리 -> [(바로가기)](https://github.com/KGJsGit/my_PaperList/blob/master/words.md)
 
-## :dart: RECOMMANDATION
+## :dart: RECOMMENDATION
 ### ML & DL
 - Scheduling domain
   - [Artificial Neural Network Based Multi-Objective Rule Selection Dispatcher for Re-Entrant Multiple-Chip Product Assembly Line](https://github.com/KGJsGit/my_PaperList/issues/1)
@@ -22,8 +22,9 @@
   - [Deep content-based music recommendation](https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation)
 - Theory
   - [Generative Adversarial Networks](https://github.com/KGJsGit/my_PaperLog/issues/3)
+  - [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](https://github.com/KGJsGit/my_PaperLog/issues/6)
 - Reinforcement learning
-  - [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236.)
+  - [Human-level control through deep reinforcement learning](https://github.com/KGJsGit/my_PaperLog/issues/5)
 ### Meta-heuristic
 - Cuckoo search
   - [Cuckoo search via Lévy flights](https://github.com/KGJsGit/my_PaperList/issues/2)
