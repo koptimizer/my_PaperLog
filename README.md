@@ -16,14 +16,15 @@
 
 ## :dart: RECOMMANDATION
 ### ML & DL
-- Scheduling
+- Scheduling domain
   - [Artificial Neural Network Based Multi-Objective Rule Selection Dispatcher for Re-Entrant Multiple-Chip Product Assembly Line](https://github.com/KGJsGit/my_PaperList/issues/1)
 - Data mining
   - [Deep content-based music recommendation](https://papers.nips.cc/paper/5004-deep-content-based-music-recommendation)
 - Theory
   - [Generative Adversarial Networks](https://github.com/KGJsGit/my_PaperLog/issues/3)
-  - Suport vector networks
+- Reinforcement learning
+  - [Human-level control through deep reinforcement learning](https://www.nature.com/articles/nature14236.)
 ### Meta-heuristic
-- Cuckoo Search
+- Cuckoo search
   - [Cuckoo search via Lévy flights](https://github.com/KGJsGit/my_PaperList/issues/2)
   - [Discrete Cuckoo Search Algorithm for the Traveling Salesman Problem](https://github.com/KGJsGit/my_PaperLog/issues/4)
