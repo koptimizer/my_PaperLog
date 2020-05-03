@@ -25,7 +25,7 @@
   - [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](https://github.com/KGJsGit/my_PaperLog/issues/6)
 - Reinforcement learning
   - [Human-level control through deep reinforcement learning](https://github.com/KGJsGit/my_PaperLog/issues/5)
-### Meta-heuristic
+### Metaheuristics
 - Cuckoo search
   - [Cuckoo search via Lévy flights](https://github.com/KGJsGit/my_PaperList/issues/2)
   - [Discrete Cuckoo Search Algorithm for the Traveling Salesman Problem](https://github.com/KGJsGit/my_PaperLog/issues/4)
