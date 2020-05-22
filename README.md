@@ -26,6 +26,7 @@
   - A Simple Framework for Contrastive Learning of Visual Representations
 - Reinforcement learning
   - [Human-level control through deep reinforcement learning](https://github.com/KGJsGit/my_PaperLog/issues/5)
+  - [StarCraft AI Competitions, Bots, and Tournament Manager Software](https://ieeexplore.ieee.org/document/8544023)
 ### Metaheuristics
 - Cuckoo search
   - [Cuckoo search via Lévy flights](https://github.com/KGJsGit/my_PaperList/issues/2)
