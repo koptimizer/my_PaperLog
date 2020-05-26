@@ -1,5 +1,5 @@
 # :page_facing_up: my_PaperLog
-[![opened-issue-badge](https://img.shields.io/github/issues/koptimizer/my_PaperList)](https://github.com/koptimizer/my_PaperLog/issues)
+[![opened-issue-badge](https://img.shields.io/github/issues/koptimizer/my_PaperLog)](https://github.com/koptimizer/my_PaperLog/issues)
 [![closed-issue-badge](https://img.shields.io/github/issues-closed/koptimizer/my_PaperLog)](https://github.com/koptimizer/my_PaperLog/issues?q=is%3Aissue+is%3Aclosed)
 ![GitHub last commit](https://img.shields.io/github/last-commit/koptimizer/my_PaperLog.svg)
 - 해당 레포는 읽을 논문들을 리스트업하고, 읽은 논문을 요약-정리으로써 배운 점들을 기록하는 공간입니다.:closed_book:
@@ -29,5 +29,5 @@
   - [StarCraft AI Competitions, Bots, and Tournament Manager Software](https://ieeexplore.ieee.org/document/8544023)
 ### Metaheuristics
 - Cuckoo search
-  - [Cuckoo search via Lévy flights](https://github.com/koptimizer/my_PaperList/issues/2)
+  - [Cuckoo search via Lévy flights](https://github.com/koptimizer/my_PaperLog/issues/2)
   - [Discrete Cuckoo Search Algorithm for the Traveling Salesman Problem](https://github.com/koptimizer/my_PaperLog/issues/4)
