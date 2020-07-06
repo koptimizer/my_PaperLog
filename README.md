@@ -16,8 +16,9 @@
 
 ## :dart: RECOMMENDATION
 ### ML
+- Industrial Application
+    - [Artificial Neural Network Based Multi-Objective Rule Selection Dispatcher for Re-Entrant Multiple-Chip Product Assembly Line](https://github.com/koptimizer/my_PaperLog/issues/1)
 - Theory
-  - [Artificial Neural Network Based Multi-Objective Rule Selection Dispatcher for Re-Entrant Multiple-Chip Product Assembly Line](https://github.com/koptimizer/my_PaperLog/issues/1)
   - [Generative Adversarial Networks](https://github.com/koptimizer/my_PaperLog/issues/3)
   - [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](https://github.com/koptimizer/my_PaperLog/issues/6)
   - A Simple Framework for Contrastive Learning of Visual Representations
