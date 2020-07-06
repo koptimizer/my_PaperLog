@@ -15,19 +15,18 @@
 - 단어/표현 정리 -> [(바로가기)](https://github.com/koptimizer/my_PaperLog/blob/master/words.md)
 
 ## :dart: RECOMMENDATION
-### ML & DL
-- Scheduling domain
-  - [Artificial Neural Network Based Multi-Objective Rule Selection Dispatcher for Re-Entrant Multiple-Chip Product Assembly Line](https://github.com/koptimizer/my_PaperLog/issues/1)
-- Data mining
-  - Deep content-based music recommendation
+### ML
 - Theory
+  - [Artificial Neural Network Based Multi-Objective Rule Selection Dispatcher for Re-Entrant Multiple-Chip Product Assembly Line](https://github.com/koptimizer/my_PaperLog/issues/1)
   - [Generative Adversarial Networks](https://github.com/koptimizer/my_PaperLog/issues/3)
   - [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](https://github.com/koptimizer/my_PaperLog/issues/6)
   - A Simple Framework for Contrastive Learning of Visual Representations
 - Reinforcement learning
   - [Human-level control through deep reinforcement learning](https://github.com/koptimizer/my_PaperLog/issues/5)
-  - [StarCraft AI Competitions, Bots, and Tournament Manager Software](https://ieeexplore.ieee.org/document/8544023)
+  - StarCraft AI Competitions, Bots, and Tournament Manager Software
 ### Metaheuristics
 - Cuckoo search
   - [Cuckoo search via Lévy flights](https://github.com/koptimizer/my_PaperLog/issues/2)
   - [Discrete Cuckoo Search Algorithm for the Traveling Salesman Problem](https://github.com/koptimizer/my_PaperLog/issues/4)
+  - [K-Means Clustering Algorithm Based on Improved Cuckoo Search Algorithm and
+Its Application](https://github.com/koptimizer/my_PaperLog/issues/7)
