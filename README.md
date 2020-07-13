@@ -31,3 +31,5 @@
   - [Discrete Cuckoo Search Algorithm for the Traveling Salesman Problem](https://github.com/koptimizer/my_PaperLog/issues/4)
   - [K-Means Clustering Algorithm Based on Improved Cuckoo Search Algorithm and
 Its Application](https://github.com/koptimizer/my_PaperLog/issues/7)
+- Particle swarm optimization
+  - [Particle swarm optimization](https://ieeexplore.ieee.org/abstract/document/488968)
