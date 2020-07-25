@@ -27,6 +27,8 @@
   - [Human-level control through deep reinforcement learning](https://github.com/koptimizer/my_PaperLog/issues/5)
   - StarCraft AI Competitions, Bots, and Tournament Manager Software
 ### Metaheuristics
+- Genetic algorithm
+  - [An effective genetic algorithm for the flexible job-shop scheduling problem]()
 - Cuckoo search
   - [Cuckoo search via Lévy flights](https://github.com/koptimizer/my_PaperLog/issues/2)
   - [Discrete Cuckoo Search Algorithm for the Traveling Salesman Problem](https://github.com/koptimizer/my_PaperLog/issues/4)
