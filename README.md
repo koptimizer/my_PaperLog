@@ -28,7 +28,7 @@
   - StarCraft AI Competitions, Bots, and Tournament Manager Software
 ### Metaheuristics
 - Genetic algorithm
-  - [An effective genetic algorithm for the flexible job-shop scheduling problem]()
+  - [An effective genetic algorithm for the flexible job-shop scheduling problem](https://github.com/koptimizer/my_PaperLog/issues/10)
 - Cuckoo search
   - [Cuckoo search via Lévy flights](https://github.com/koptimizer/my_PaperLog/issues/2)
   - [Discrete Cuckoo Search Algorithm for the Traveling Salesman Problem](https://github.com/koptimizer/my_PaperLog/issues/4)
