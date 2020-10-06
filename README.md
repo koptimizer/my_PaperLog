@@ -29,10 +29,13 @@
 ### Metaheuristics
 - Genetic algorithm
   - [An effective genetic algorithm for the flexible job-shop scheduling problem](https://github.com/koptimizer/my_PaperLog/issues/10)
+  - [An efficient two-stage genetic algorithm for a flexible job-shop scheduling problem with sequence dependent attached/detached setup, machine release date and lag-time](https://github.com/koptimizer/my_PaperLog/issues/12)
 - Cuckoo search
   - [Cuckoo search via Lévy flights](https://github.com/koptimizer/my_PaperLog/issues/2)
   - [Discrete Cuckoo Search Algorithm for the Traveling Salesman Problem](https://github.com/koptimizer/my_PaperLog/issues/4)
   - [K-Means Clustering Algorithm Based on Improved Cuckoo Search Algorithm and
 Its Application](https://github.com/koptimizer/my_PaperLog/issues/7)
-- Particle Swarm Optimization
+- Particle swarm optimization
   - [Particle 2-Swarm Optimization for Robust Search](https://github.com/koptimizer/my_PaperLog/issues/8)
+- Neighbourhood search
+  - [Sequence-dependent setup time flexible job shop scheduling problem to minimise total tardiness](https://github.com/koptimizer/my_PaperLog/issues/11)
