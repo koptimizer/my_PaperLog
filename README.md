@@ -29,6 +29,7 @@
 ### Metaheuristics
 - Genetic algorithm
   - [An effective genetic algorithm for the flexible job-shop scheduling problem](https://github.com/koptimizer/my_PaperLog/issues/10)
+  - [Setup Change Scheduling for Semiconductor Packaging Facilities Using a Genetic Algorithm With an Operator Recommender](https://github.com/koptimizer/my_PaperLog/issues/13)
   - [An efficient two-stage genetic algorithm for a flexible job-shop scheduling problem with sequence dependent attached/detached setup, machine release date and lag-time](https://github.com/koptimizer/my_PaperLog/issues/12)
 - Cuckoo search
   - [Cuckoo search via Lévy flights](https://github.com/koptimizer/my_PaperLog/issues/2)
