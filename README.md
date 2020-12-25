@@ -26,6 +26,8 @@
 - Reinforcement learning
   - [Human-level control through deep reinforcement learning](https://github.com/koptimizer/my_PaperLog/issues/5)
   - StarCraft AI Competitions, Bots, and Tournament Manager Software
+- NLP
+  - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://github.com/koptimizer/my_PaperLog/issues/13)
 ### Metaheuristics
 - Genetic algorithm
   - [An effective genetic algorithm for the flexible job-shop scheduling problem](https://github.com/koptimizer/my_PaperLog/issues/10)
