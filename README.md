@@ -16,7 +16,7 @@
 
 ## :dart: PAPER LIST
 ### Machine Learning
-- Industrial Application
+- Industrial application
   - [Artificial Neural Network Based Multi-Objective Rule Selection Dispatcher for Re-Entrant Multiple-Chip Product Assembly Line](https://github.com/koptimizer/my_PaperLog/issues/1)
   - [A Reinforcement Learning Approach to Robust Scheduling of Semiconductor Manufacturing Facilities]()
 - Theory
