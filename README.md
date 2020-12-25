@@ -15,7 +15,7 @@
 - 단어/표현 정리 -> [(바로가기)](https://github.com/koptimizer/my_PaperLog/blob/master/words.md)
 
 ## :dart: PAPER LIST
-### Machine learning
+### Machine Learning
 - Industrial Application
   - [Artificial Neural Network Based Multi-Objective Rule Selection Dispatcher for Re-Entrant Multiple-Chip Product Assembly Line](https://github.com/koptimizer/my_PaperLog/issues/1)
   - [A Reinforcement Learning Approach to Robust Scheduling of Semiconductor Manufacturing Facilities]()
