@@ -25,7 +25,6 @@
   - A Simple Framework for Contrastive Learning of Visual Representations
 - Reinforcement learning
   - [Human-level control through deep reinforcement learning](https://github.com/koptimizer/my_PaperLog/issues/5)
-  - StarCraft AI Competitions, Bots, and Tournament Manager Software
 - NLP
   - [Transformer: Attention is All you Need](https://github.com/koptimizer/my_PaperLog/issues/15)
   - [GPT: Improving Language Understanding by Generative Pre-Training](https://github.com/koptimizer/my_PaperLog/issues/16)
