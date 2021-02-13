@@ -13,7 +13,7 @@ assignees: ''
 - 투고 저널을 써주세요.
 - 게재일자를 써주세요.
 
-## :page_with_curl: Abstract(본문)
+## :page_with_curl: Abstract
 > 해당 본문의 abstract를 실어주세요.
 
 ## :mag_right: 어떤 논문인지 소개해주세요.
