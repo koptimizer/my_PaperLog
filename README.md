@@ -22,13 +22,17 @@
 - Theory
   - [Generative Adversarial Networks](https://github.com/koptimizer/my_PaperLog/issues/3)
   - [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](https://github.com/koptimizer/my_PaperLog/issues/6)
-  - A Simple Framework for Contrastive Learning of Visual Representations
 - Reinforcement learning
   - [Human-level control through deep reinforcement learning](https://github.com/koptimizer/my_PaperLog/issues/5)
 - NLP
   - [Transformer: Attention is All you Need](https://github.com/koptimizer/my_PaperLog/issues/15)
   - [GPT: Improving Language Understanding by Generative Pre-Training](https://github.com/koptimizer/my_PaperLog/issues/16)
   - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://github.com/koptimizer/my_PaperLog/issues/14)
+- Framework
+  - [XGBoost: A Scalable Tree Boosting System](https://github.com/koptimizer/my_PaperLog/issues/19)
+  - [LightGBM: A Highly Efficient Gradient Boosting Decision Tree](https://github.com/koptimizer/my_PaperLog/issues/20)
+  - [CatBoost: gradient boosting with categorical features support](https://github.com/koptimizer/my_PaperLog/issues/21)
+  
 ### Metaheuristics
 - Genetic algorithm
   - [An effective genetic algorithm for the flexible job-shop scheduling problem](https://github.com/koptimizer/my_PaperLog/issues/10)
@@ -45,5 +49,5 @@
 - Particle swarm optimization
   - [Particle 2-Swarm Optimization for Robust Search](https://github.com/koptimizer/my_PaperLog/issues/8)
 - Marine predators algorithm
-  - [Marine Predators Algorithm: A nature-inspired metaheuristic](https://github.com/koptimizer/my_PaperLog/issues/17)
+  - [Marine Predators Algorithm: A nature-inspired metaheuristic](https://github.com/koptimizer/my_PaperLog/issues/18)
 
