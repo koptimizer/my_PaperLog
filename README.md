@@ -16,14 +16,14 @@
 
 ## :dart: PAPER LIST
 ### Machine Learning
-- Industrial application
+- Neural network
   - [Artificial Neural Network Based Multi-Objective Rule Selection Dispatcher for Re-Entrant Multiple-Chip Product Assembly Line](https://github.com/koptimizer/my_PaperLog/issues/1)
-  - [A Reinforcement Learning Approach to Robust Scheduling of Semiconductor Manufacturing Facilities]()
-- Theory
   - [Generative Adversarial Networks](https://github.com/koptimizer/my_PaperLog/issues/3)
-  - [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](https://github.com/koptimizer/my_PaperLog/issues/6)
 - Reinforcement learning
   - [Human-level control through deep reinforcement learning](https://github.com/koptimizer/my_PaperLog/issues/5)
+  - [A Reinforcement Learning Approach to Robust Scheduling of Semiconductor Manufacturing Facilities]()
+- Auto machine learning
+  - [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](https://github.com/koptimizer/my_PaperLog/issues/6)
 - NLP
   - [Transformer: Attention is All you Need](https://github.com/koptimizer/my_PaperLog/issues/15)
   - [GPT: Improving Language Understanding by Generative Pre-Training](https://github.com/koptimizer/my_PaperLog/issues/16)
