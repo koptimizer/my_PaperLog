@@ -29,9 +29,9 @@
   - [GPT: Improving Language Understanding by Generative Pre-Training](https://github.com/koptimizer/my_PaperLog/issues/16)
   - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://github.com/koptimizer/my_PaperLog/issues/14)
 - Framework
-  - [XGBoost: A Scalable Tree Boosting System](https://github.com/koptimizer/my_PaperLog/issues/19)
-  - [LightGBM: A Highly Efficient Gradient Boosting Decision Tree](https://github.com/koptimizer/my_PaperLog/issues/20)
-  - [CatBoost: gradient boosting with categorical features support](https://github.com/koptimizer/my_PaperLog/issues/21)
+  - [XGBoost: A Scalable Tree Boosting System](https://github.com/koptimizer/my_PaperLog/issues/18)
+  - [LightGBM: A Highly Efficient Gradient Boosting Decision Tree](https://github.com/koptimizer/my_PaperLog/issues/19)
+  - [CatBoost: gradient boosting with categorical features support](https://github.com/koptimizer/my_PaperLog/issues/20)
   
 ### Metaheuristics
 - Genetic algorithm
@@ -49,5 +49,5 @@
 - Particle swarm optimization
   - [Particle 2-Swarm Optimization for Robust Search](https://github.com/koptimizer/my_PaperLog/issues/8)
 - Marine predators algorithm
-  - [Marine Predators Algorithm: A nature-inspired metaheuristic](https://github.com/koptimizer/my_PaperLog/issues/18)
+  - [Marine Predators Algorithm: A nature-inspired metaheuristic](https://github.com/koptimizer/my_PaperLog/issues/21)
 
