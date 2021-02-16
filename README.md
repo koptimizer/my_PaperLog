@@ -44,6 +44,7 @@
   - [K-Means Clustering Algorithm Based on Improved Cuckoo Search Algorithm and Its Application](https://github.com/koptimizer/my_PaperLog/issues/7)
 - Gray wolf optimizer
   - [Gray Wolf Optimizer](https://github.com/koptimizer/my_PaperLog/issues/17)
+  - [An improved grey wolf optimizer for solving engineering problems](https://github.com/koptimizer/my_PaperLog/issues/22)
 - Neighbourhood search
   - [Sequence-dependent setup time flexible job shop scheduling problem to minimise total tardiness](https://github.com/koptimizer/my_PaperLog/issues/11)
 - Particle swarm optimization
