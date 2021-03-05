@@ -45,6 +45,7 @@
 - Grey wolf optimizer
   - [Grey Wolf Optimizer](https://github.com/koptimizer/my_PaperLog/issues/17)
   - [An improved grey wolf optimizer for solving engineering problems](https://github.com/koptimizer/my_PaperLog/issues/22)
+  - [Classification of sonar data set using neural network trained by Gray Wolf Optimization](https://github.com/koptimizer/my_PaperLog/issues/23)
 - Neighbourhood search
   - [Sequence-dependent setup time flexible job shop scheduling problem to minimise total tardiness](https://github.com/koptimizer/my_PaperLog/issues/11)
 - Particle swarm optimization
