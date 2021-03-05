@@ -21,7 +21,7 @@
   - [Generative Adversarial Networks](https://github.com/koptimizer/my_PaperLog/issues/3)
 - Reinforcement learning
   - [Human-level control through deep reinforcement learning](https://github.com/koptimizer/my_PaperLog/issues/5)
-  - [A Reinforcement Learning Approach to Robust Scheduling of Semiconductor Manufacturing Facilities]()
+  - [A Reinforcement Learning Approach to Robust Scheduling of Semiconductor Manufacturing Facilities](https://github.com/koptimizer/my_PaperLog/issues/9)
 - Auto machine learning
   - [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](https://github.com/koptimizer/my_PaperLog/issues/6)
 - NLP
