@@ -42,8 +42,8 @@
   - [Cuckoo search via Lévy flights](https://github.com/koptimizer/my_PaperLog/issues/2)
   - [Discrete Cuckoo Search Algorithm for the Traveling Salesman Problem](https://github.com/koptimizer/my_PaperLog/issues/4)
   - [K-Means Clustering Algorithm Based on Improved Cuckoo Search Algorithm and Its Application](https://github.com/koptimizer/my_PaperLog/issues/7)
-- Gray wolf optimizer
-  - [Gray Wolf Optimizer](https://github.com/koptimizer/my_PaperLog/issues/17)
+- Grey wolf optimizer
+  - [Grey Wolf Optimizer](https://github.com/koptimizer/my_PaperLog/issues/17)
   - [An improved grey wolf optimizer for solving engineering problems](https://github.com/koptimizer/my_PaperLog/issues/22)
 - Neighbourhood search
   - [Sequence-dependent setup time flexible job shop scheduling problem to minimise total tardiness](https://github.com/koptimizer/my_PaperLog/issues/11)
