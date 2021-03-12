@@ -22,6 +22,7 @@
 - Reinforcement learning
   - [Human-level control through deep reinforcement learning](https://github.com/koptimizer/my_PaperLog/issues/5)
   - [A Reinforcement Learning Approach to Robust Scheduling of Semiconductor Manufacturing Facilities](https://github.com/koptimizer/my_PaperLog/issues/9)
+  - [Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning] (https://github.com/koptimizer/my_PaperLog/issues/25)
 - Auto machine learning
   - [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](https://github.com/koptimizer/my_PaperLog/issues/6)
 - NLP
@@ -38,6 +39,7 @@
   - [An effective genetic algorithm for the flexible job-shop scheduling problem](https://github.com/koptimizer/my_PaperLog/issues/10)
   - [Setup Change Scheduling for Semiconductor Packaging Facilities Using a Genetic Algorithm With an Operator Recommender](https://github.com/koptimizer/my_PaperLog/issues/13)
   - [An efficient two-stage genetic algorithm for a flexible job-shop scheduling problem with sequence dependent attached/detached setup, machine release date and lag-time](https://github.com/koptimizer/my_PaperLog/issues/12)
+  - [Evolving Neural Networks through Augmenting Topologies](https://github.com/koptimizer/my_PaperLog/issues/26)
 - Cuckoo search
   - [Cuckoo search via Lévy flights](https://github.com/koptimizer/my_PaperLog/issues/2)
   - [Discrete Cuckoo Search Algorithm for the Traveling Salesman Problem](https://github.com/koptimizer/my_PaperLog/issues/4)
@@ -52,4 +54,5 @@
   - [Particle 2-Swarm Optimization for Robust Search](https://github.com/koptimizer/my_PaperLog/issues/8)
 - Marine predators algorithm
   - [Marine Predators Algorithm: A nature-inspired metaheuristic](https://github.com/koptimizer/my_PaperLog/issues/21)
+- Neuroevolution
 
