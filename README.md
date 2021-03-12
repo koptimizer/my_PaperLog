@@ -22,7 +22,7 @@
 - Reinforcement learning
   - [Human-level control through deep reinforcement learning](https://github.com/koptimizer/my_PaperLog/issues/5)
   - [A Reinforcement Learning Approach to Robust Scheduling of Semiconductor Manufacturing Facilities](https://github.com/koptimizer/my_PaperLog/issues/9)
-  - [Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning] (https://github.com/koptimizer/my_PaperLog/issues/25)
+  - [Deep Neuroevolution: Genetic Algorithms are a Competitive Alternative for Training Deep Neural Networks for Reinforcement Learning](https://github.com/koptimizer/my_PaperLog/issues/25)
 - Auto machine learning
   - [AutoML-Zero: Evolving Machine Learning Algorithms From Scratch](https://github.com/koptimizer/my_PaperLog/issues/6)
 - NLP
@@ -54,5 +54,3 @@
   - [Particle 2-Swarm Optimization for Robust Search](https://github.com/koptimizer/my_PaperLog/issues/8)
 - Marine predators algorithm
   - [Marine Predators Algorithm: A nature-inspired metaheuristic](https://github.com/koptimizer/my_PaperLog/issues/21)
-- Neuroevolution
-
