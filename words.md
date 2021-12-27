@@ -24,3 +24,21 @@
 - simultaneously : 동시에
 - corresponds : 상응하는
 - qualitative and quantitative evaluation : 정성적 및 정량적 평가
+
+### 패러프래이징 - Quillbot 추천
+- 증가: increase, upregulate, enhance, potentiate, failitate, promote, stimulate, elevate, augment, enrich, aggravate, accelerate, expand, extend, enlarge, rise, alter
+- 감소: decrease, downregulate, inhibit, prevent, repress, suppress, abolish, nullify, attenuate, knockout, diminish, mitigate, ameliorate, alleviate, restrain, dampen, reduce, lower, eliminate, lessen, shrink, minimize, cut down, alter
+- 조절: regulate, affect, modulate, control, modify, fine-tune, orchestrate, involve, govern, contribute, manage, stabilize, adjust
+- 규명: examine, investigate, analyze, explore, test, characterize, elucidate, evaluate, monitor, study, dissect, clarify, address
+- 처리: treat, administrate, inject, incubate
+- 발견: exhibit, show, observe, identify, reveal, provide, find, prove, uncover, unveil, demonstrate, illustrate, illuminate
+- 관련: associate, correlate, implicate, in this regard, in line with, consistently, consistent with, accompanied by, associated with
+- 제안: suggest, imply, postulate, hypothesize, speculate, indicate, propose, reinforce, assume
+- 추가: in addition, also, further, furthermore, moreover, additionally, besides, finally, likewise, similarily
+- 주목: notably, of note, interestingly, intriguingly, surprisingly, to our surprise, unexpectedly, highlight
+- 확인: confirm, affirm, verify, validate
+- 비교: compared to, than, relatively, highly, potently, remarkably
+- 반전: however, but, while, whereas, although, despite, nevertheless, nonetheless, conversely, meanwhile, notwithstanding
+- 정리: collectively, taken together, together, therefore, thus, hence, indeed
+
+
